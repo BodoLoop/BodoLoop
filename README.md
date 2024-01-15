@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on different projects.
 - 📫 How to reach me is not that hard.
 - 😄 Pronouns: Me
-- ⚡ Fun fact: the easier is actually the hardest.
+- ⚡ Fun fact: the easier it sounds, the hardest it gets.
 
 <!---
 BodoLoop/BodoLoop is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
